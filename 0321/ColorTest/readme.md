@@ -3,7 +3,8 @@
 
 추가 설명
  *** xml 코드
- ********************************************************************
+ 
+ **java
 <?xml version="1.0" encoding="UTF-8" ?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
